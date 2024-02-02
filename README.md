@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel Kałczuga</h1>
-<h3 align="center">A Passionate Developer from Poland</h3>
+<h1>Hi 👋, I'm Gabriel Kałczuga</h1>
+<h3>A Passionate Developer from Poland</h3>
+
+[![](https://visitcount.itsvg.in/api?id=kalczugag&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently Working on Web Development (Full-Stack).<br>🤝 I’m available for Jobs and freelance projects.<br>🌱 I’m currently learning Advance ReactJS, NodeJS.<br>💬 Ask me about ReactJS & NodeJS
@@ -16,6 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalczugag&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kalczugag&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
