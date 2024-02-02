@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Gabriel Kałczuga</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on Employee Leave Management<br>🌱 I’m currently learning Advanced TypeScript<br>💬 Ask me about React,Node.js
+🌱 I’m currently Working on Web Development (Full-Stack).<br>🤝 I’m available for Jobs and freelance projects.<br>🌱 I’m currently learning Advance ReactJS, NodeJS.<br>💬 Ask me about ReactJS & NodeJS
 
 
 ## 🌐 Socials:
