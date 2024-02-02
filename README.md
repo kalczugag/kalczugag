@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=kalczugag&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🌱 I’m currently Working on Web Development (Full-Stack).<br>🤝 I’m available for Jobs and freelance projects.<br>🌱 I’m currently learning Advance ReactJS, NodeJS.<br>💬 Ask me about ReactJS & NodeJS
+🌱 I’m currently Working on Web Development (Full-Stack)<br>🤝 I’m available for Jobs and freelance projects<br>🌱 I’m currently learning Advance ReactJS, NodeJS<br>💬 Ask me about **ReactJS & NodeJS**<br>👨‍🎓Always excited and ready to **Learn New Skills**
 
 
 ## 🌐 Socials:
